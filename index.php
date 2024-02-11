@@ -12,7 +12,7 @@
 //     echo "<br> Favorite Color of $name is $col";
 // }
 
-//multidimensional array 
+//multidimensional array to print matrix 
 // $muldim = array(array(0,1,2), array(3,4,5,), array(6,7,8));
 
 // for($i=0; $i < count($muldim); $i++){
